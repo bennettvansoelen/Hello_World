@@ -2,7 +2,7 @@
 Repository Practice
 ## Description
 This is a sample repository for BAIS:3050
-## How to run
+## Message
 
 Hello Friends,
 
