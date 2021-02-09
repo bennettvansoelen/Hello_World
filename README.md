@@ -1,5 +1,8 @@
-# Hello_World
-Sample Repository for BAIS:3050
+# Title
+Repository Practice
+# Description
+This is a sample repository for BAIS:3050
+#
 
 Hello Friends,
 
