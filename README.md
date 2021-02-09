@@ -1,8 +1,8 @@
-# Title
+## Title
 Repository Practice
-# Description
+## Description
 This is a sample repository for BAIS:3050
-#
+## How to run
 
 Hello Friends,
 
